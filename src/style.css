@@ -1,0 +1,118 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/* ---------navbar-section------ */
+nav{
+  background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 698px;
+  width: 100%;
+  display:flex;
+  justify-content: center;
+}
+.navbar-section{
+  width:1140px ;
+  padding:50px 0px 50px 0px;
+  /* background-color: red; */
+}
+.navbar-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-content P{
+  text-transform:uppercase;
+  font-size: 34px;
+  color: blue;
+  font-weight:900;
+}
+.navbar-content button{
+  background-color: #4E47FF;
+  color:#FFFFFF;
+  padding: 12px 36px;
+  border-radius: 10px;
+  border: none;
+  font-style:700;
+  font-size: 16px;
+}
+.navbar-content-section{
+  width: 905px;
+  height: 237px;
+  margin:158px auto;
+}
+.navbar-content-section p{
+ text-align: center;
+ font-weight: 900;
+ font-size:65px;
+ color: #252432;
+
+}
+.navbar-content-button{
+  text-align: center;
+}
+
+.navbar-content-button button{
+background-color: #4E47FF;
+font-size: 16px;
+font-weight: bold;
+text-transform: capitalize;
+width: 174px;
+height: 48px;
+border-radius: 10px;
+border: none;
+color:#FFFFFF;
+margin-top: 37px;
+}
+
+/* -----action-section------ */
+
+.action-section{
+  width: 1140px;
+  height: 328px;
+  margin:158px auto;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.action-section .action-content{
+  width:527px;
+  
+}
+.action-section .action-image{
+  width: 403px;
+  
+}
+.action-content{
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+}
+.action-content .see-it{
+  text-transform: capitalize;
+  font-weight: 700;
+  color: #252432;
+  font-size: 42px; 
+}
+.action-content .Explore-the{
+  font-weight:400;
+  color: #252432;
+  font-size:24px; 
+}
+.action-content button{
+  width: 229px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #FFFFFF;
+  background-color: #4E47FF;
+  border-radius: 10px;
+  border: none;
+  
+
+}
+.action-image img{
+  border-radius: 48px;
+}
