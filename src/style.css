@@ -319,7 +319,7 @@
 
 /* -------let-get-in-touch------- */
 
- .let-get-in-touch {
+ /* .let-get-in-touch {
   width: 1140px;
   display: flex;
   justify-content: space-between;
@@ -420,11 +420,11 @@
   border-radius: 10px;
   border: 1px solid black;
   color: black;
-} 
+}  */
 
 /* ------footer-Section------ */
 
-/* .footer-section {
+.footer-section {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -477,4 +477,4 @@
 footer {
   border: none;
   border-bottom: none;
-} */
+} 
