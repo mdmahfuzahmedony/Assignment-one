@@ -12,7 +12,7 @@
 .inter-font {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight:weight;
+  font-weight:900;
   font-style: normal;
 }
 
@@ -47,7 +47,7 @@ nav {
   color: blue;
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight:700;
+  font-weight:900;
   font-style: normal;
 }
 
