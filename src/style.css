@@ -267,7 +267,7 @@
 
 /* ----ready-to-focus-better-----  */
 
-.ready-to-focus-better {
+ /* .ready-to-focus-better {
   padding: 71px 0px 71px 0px;
   border-radius: 14px;
   text-align: center;
@@ -302,7 +302,7 @@
   margin-top: 20px;
   font-size: 16px;
 
-} */
+} 
 
 .ready-to-focus-better button:hover {
   background-color: white;
@@ -315,11 +315,11 @@
 .ready-to-focus-better-image img {
   border-radius: 48PX;
   margin-top: 20px;
-}
+}  */
 
 /* -------let-get-in-touch------- */
 
-/* .let-get-in-touch {
+ .let-get-in-touch {
   width: 1140px;
   display: flex;
   justify-content: space-between;
@@ -420,7 +420,7 @@
   border-radius: 10px;
   border: 1px solid black;
   color: black;
-} */
+} 
 
 /* ------footer-Section------ */
 
