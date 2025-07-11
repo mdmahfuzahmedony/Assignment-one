@@ -206,7 +206,7 @@
 
 /* ---------what-are-says----------- */
 
-.clients-says-scetion {
+/* .clients-says-scetion {
   width: 1140px;
   margin: 71px auto;
 }
@@ -262,12 +262,12 @@
 .clients-content p {
   font-size: 16px;
   color: black;
-} 
+}  */
 
 
 /* ----ready-to-focus-better-----  */
 
-/* .ready-to-focus-better {
+.ready-to-focus-better {
   padding: 71px 0px 71px 0px;
   border-radius: 14px;
   text-align: center;
