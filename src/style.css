@@ -3,6 +3,9 @@
   padding: 0px;
 }
 
+
+
+
 /* ---------navbar-section------ */
 nav {
   background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
@@ -462,7 +465,7 @@ nav {
 
 .footer-section p {
   text-align: center;
-  color: #8987A1;
+  color: #2d2c34;
   margin-top: 10px;
 }
 
@@ -478,7 +481,7 @@ nav {
   font-size: 16px;
   text-decoration: none;
   padding: 0px 20px;
-  color: #8987A1;
+  color: #434250;
 
 }
 
